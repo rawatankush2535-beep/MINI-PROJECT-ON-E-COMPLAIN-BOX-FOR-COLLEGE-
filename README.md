@@ -1,10 +1,3 @@
-# MINI-PROJECT-ON-E-COMPLAIN-BOX-FOR-COLLEGE-
-E COMPLAIN BOX FOR COLLEGE
-
-
-
-
-
 
 #include <iostream> 
 #include <vector> 
